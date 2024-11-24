@@ -16,6 +16,7 @@
   "license": "ISC",
   "dependencies": {
     "chromecast-api": "^0.4.2",
+    "express": "^4.21.1",
     "dotenv": "^16.3.1",
     "https-proxy-agent": "^7.0.2",
     "node-fetch": "^3.3.2",
